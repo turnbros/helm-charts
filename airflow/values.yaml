@@ -1,1 +1,5 @@
 airflow: {}
+
+gitSync.secret_path: "vault_path"
+gitSync.usernameKey: "username"
+gitSync.passwordKey: "token"
